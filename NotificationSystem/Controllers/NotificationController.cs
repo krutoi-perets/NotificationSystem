@@ -6,30 +6,35 @@ namespace NotificationSystem
     [Route("api/[controller]")]
     public class NotificationController : ControllerBase
     {
-        private List<Notification> _notifications = new List<Notification>();
+        private readonly NotificationService _notificationService;
+
+        public NotificationController(NotificationService notificationService)
+        {
+            _notificationService = notificationService;
+        }
 
         [HttpGet]
         public IActionResult GetAll()
         {
-            return Ok(_notifications);
+            var result = _notificationService.GetAll();
+            return Ok(result);
         }
 
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            var notification = _notifications.Find(x => x.Id == id);
-            if (notification == null)
+            var result = _notificationService.Get(id);
+            if (result == null)
                 return NotFound();
-            return Ok(notification);
+            return Ok(result);
         }
 
         [HttpPost]
-        public IActionResult CreateNotification(Notification notification)
+        public IActionResult CreateNotification(CreateNotificationDTO dto)
         {
-            notification.Id = _notifications.Count() == 0 ? 1 : _notifications[_notifications.Count() - 1].Id + 1;
-            _notifications.Add(notification);
+            var result = _notificationService.Create(dto);
 
-            return Created();
+            return Ok(result);
         }
     }
 }

@@ -2,7 +2,8 @@
 {
     public enum NotificationStatus
     {
-        Created,
+        Pending,
+        Processing,
         Sent,
         Failed
     }

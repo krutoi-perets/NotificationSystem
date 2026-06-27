@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\dataaccess\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:dataaccess\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\models\\notificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{018F6DF0-E247-4AF3-8981-C131C6E0BD2F}|NotificationSystem.csproj|solutionrelative:models\\notificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\models\\notificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:models\\notificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T14:11:00.599Z",
               "IsPinned": true,
@@ -48,33 +52,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-26T19:07:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\DataAccess\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationContext.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\DataAccess\\ApplicationContext.cs",
+              "RelativeToolTip": "DataAccess\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T13:48:35.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NotificationController.cs",
               "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Controllers\\NotificationController.cs",
               "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
               "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Controllers\\NotificationController.cs",
               "RelativeToolTip": "Controllers\\NotificationController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T18:59:24.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\DataAccess\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\AppDbContext.cs",
-              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\DataAccess\\AppDbContext.cs",
-              "RelativeToolTip": "DataAccess\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T18:13:13.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Models\\Notification.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NotificationStatus.cs",
               "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Models\\NotificationStatus.cs",
               "RelativeDocumentMoniker": "Models\\NotificationStatus.cs",
