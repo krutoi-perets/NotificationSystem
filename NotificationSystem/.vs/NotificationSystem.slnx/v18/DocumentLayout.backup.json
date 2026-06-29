@@ -3,28 +3,29 @@
   "WorkspaceRootPath": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FBD2EDB9-FB59-4D2D-8B58-57A562CA26B9}|..\\Shared\\Shared.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\shared\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\dbcontext\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:dbcontext\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\dataaccess\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:dataaccess\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0126C327-7A08-9912-94B6-94B6C019AE54}|..\\NotificationWorker\\NotificationWorker.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0126C327-7A08-9912-94B6-94B6C019AE54}|..\\NotificationWorker\\NotificationWorker.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationworker\\rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\models\\notificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:models\\notificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationsystem\\rabbitmq\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{075CF57E-551A-72ED-41BB-37457432B933}|NotificationSystem.csproj|solutionrelative:rabbitmq\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +35,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T14:11:00.599Z",
               "IsPinned": true,
@@ -52,67 +53,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-26T19:07:18.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\DataAccess\\ApplicationContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\ApplicationContext.cs",
-              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\DataAccess\\ApplicationContext.cs",
-              "RelativeToolTip": "DataAccess\\ApplicationContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABkAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\DbContext\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "DbContext\\ApplicationContext.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\DbContext\\ApplicationContext.cs",
+              "RelativeToolTip": "DbContext\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T13:48:35.074Z",
+              "WhenOpened": "2026-06-29T14:12:55.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotificationController.cs",
-              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Controllers\\NotificationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
-              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Controllers\\NotificationController.cs",
-              "RelativeToolTip": "Controllers\\NotificationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Shared\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\Models\\Notification.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Shared\\Models\\Notification.cs",
+              "RelativeToolTip": "..\\Shared\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T18:59:24.322Z",
+              "WhenOpened": "2026-06-29T14:11:55.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Models\\Notification.cs",
-              "RelativeDocumentMoniker": "Models\\Notification.cs",
-              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Models\\Notification.cs",
-              "RelativeToolTip": "Models\\Notification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NotificationWorker\\Program.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Program.cs",
+              "RelativeToolTip": "..\\NotificationWorker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T15:04:21.2Z",
+              "WhenOpened": "2026-06-29T14:03:31.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NotificationStatus.cs",
-              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Models\\NotificationStatus.cs",
-              "RelativeDocumentMoniker": "Models\\NotificationStatus.cs",
-              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Models\\NotificationStatus.cs",
-              "RelativeToolTip": "Models\\NotificationStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Title": "RabbitMqConsumer.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\RabbitMQ\\RabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "..\\NotificationWorker\\RabbitMQ\\RabbitMqConsumer.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\RabbitMQ\\RabbitMqConsumer.cs",
+              "RelativeToolTip": "..\\NotificationWorker\\RabbitMQ\\RabbitMqConsumer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T15:33:26.297Z",
+              "WhenOpened": "2026-06-29T13:00:54.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\RabbitMQ\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMqPublisher.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\RabbitMQ\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMqPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T12:01:56.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationSystem\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T20:39:47.774Z",
               "EditorCaption": ""
             }
           ]

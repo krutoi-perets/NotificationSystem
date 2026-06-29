@@ -14,25 +14,25 @@ namespace NotificationSystem
         }
 
         [HttpGet]
-        public IActionResult GetAll()
+        public async Task<IActionResult> GetAll()
         {
-            var result = _notificationService.GetAll();
+            var result = await _notificationService.GetAll();
             return Ok(result);
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public async Task<IActionResult> GetById(int id)
         {
-            var result = _notificationService.Get(id);
+            var result = await _notificationService.Get(id);
             if (result == null)
                 return NotFound();
             return Ok(result);
         }
 
         [HttpPost]
-        public IActionResult CreateNotification(CreateNotificationDTO dto)
+        public async Task<IActionResult> CreateNotification(CreateNotificationDTO dto)
         {
-            var result = _notificationService.Create(dto);
+            var result = await _notificationService.Create(dto);
 
             return Ok(result);
         }

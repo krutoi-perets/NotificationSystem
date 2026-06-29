@@ -11,6 +11,7 @@ builder.Services.AddDbContext<ApplicationContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 builder.Services.AddScoped<NotificationService>();
+builder.Services.AddSingleton<RabbitMqPublisher>();
 
 var app = builder.Build();
 

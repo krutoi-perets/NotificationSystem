@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../NotificationWorker/NotificationWorker.csproj" />
+  <Project Path="../Shared/Shared.csproj" Id="fbd2edb9-fb59-4d2d-8b58-57a562ca26b9" />
   <Project Path="NotificationSystem.csproj" />
 </Solution>

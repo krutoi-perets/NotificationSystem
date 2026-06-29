@@ -1,37 +1,44 @@
+using Microsoft.EntityFrameworkCore;
+using Shared;
+
 namespace NotificationSystem
 {
     public class NotificationService
     {
         private readonly ApplicationContext _context;
+        private readonly RabbitMqPublisher _publisher;
 
-        public NotificationService(ApplicationContext context)
+        public NotificationService(ApplicationContext context, RabbitMqPublisher publisher)
         {
             _context = context;
+            _publisher = publisher;
         }
 
-        public List<Notification> GetAll()
+        public async Task<List<Notification>> GetAll()
         {
-            return _context.Notifications.ToList();
+            return await _context.Notifications.ToListAsync();
         }
 
-        public Notification? Get(int id)
+        public async Task<Notification?> Get(int id)
         {
-            return _context.Notifications.Find(id);
+            return await _context.Notifications.FindAsync(id);
         }
 
-        public Notification Create(CreateNotificationDTO dto)
+        public async Task<Notification> Create(CreateNotificationDTO dto)
         {
             Notification notification = new Notification
             {
                 Channel = dto.Channel,
                 Receiver = dto.Receiver,
                 Content = dto.Content,
-                CreatedAt = DateTime.Now,
+                CreatedAt = DateTime.UtcNow,
                 Status = NotificationStatus.Pending
             };
 
-            _context.Notifications.Add(notification);
-            _context.SaveChanges();
+            await _context.Notifications.AddAsync(notification);
+            await _context.SaveChangesAsync();
+
+            await _publisher.PublishAsync(notification.Id);
 
             return notification;
         }
