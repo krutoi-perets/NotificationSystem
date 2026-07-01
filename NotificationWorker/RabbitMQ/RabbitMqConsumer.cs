@@ -1,14 +1,16 @@
 ﻿using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
-using System;
-using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using System.Text;
 
 namespace NotificationWorker
 {
     public class RabbitMqConsumer
     {
-        public async Task StartAsync()
+        private IConnection? _connection;
+        private IChannel? _channel;
+
+        public async Task StartAsync(Func<int, Task> func, CancellationToken stoppingToken)
         {
             var factory = new ConnectionFactory
             {
@@ -17,35 +19,23 @@ namespace NotificationWorker
                 Password = "guest"
             };
 
-            await using var connection = await factory.CreateConnectionAsync();
-            await using var channel = await connection.CreateChannelAsync();
+            _connection = await factory.CreateConnectionAsync();
+            _channel = await _connection.CreateChannelAsync();
 
-            await channel.QueueDeclareAsync(
-                queue: "notifications",
-                durable: false,
-                exclusive: false,
-                autoDelete: false);
+            await _channel.QueueDeclareAsync("notifications", false, false, false);
 
-            var consumer = new AsyncEventingBasicConsumer(channel);
+            var consumer = new AsyncEventingBasicConsumer(_channel);
 
-            consumer.ReceivedAsync += async (model, ea) =>
+            consumer.ReceivedAsync += async (_, e) =>
             {
-                var body = ea.Body.ToArray();
-                var message = Encoding.UTF8.GetString(body);
+                var id = int.Parse(Encoding.UTF8.GetString(e.Body.ToArray()));
 
-                Console.WriteLine($"Получено уведомление: {message}");
-
-                await Task.CompletedTask;
+                await func(id);
             };
 
-            await channel.BasicConsumeAsync(
-                queue: "notifications",
-                autoAck: true,
-                consumer: consumer);
+            await _channel.BasicConsumeAsync("notifications", true, consumer);
 
-            Console.WriteLine("Worker запущен");
-
-            await Task.Delay(Timeout.Infinite);
+            await Task.Delay(Timeout.Infinite, stoppingToken);
         }
     }
 }

@@ -778,6 +778,10 @@
       "Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "10.0.9",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.2"
+        },
         "compile": {
           "bin/placeholder/Shared.dll": {}
         },

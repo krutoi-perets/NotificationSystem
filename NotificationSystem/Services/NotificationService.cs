@@ -14,17 +14,32 @@ namespace NotificationSystem
             _publisher = publisher;
         }
 
-        public async Task<List<Notification>> GetAll()
+        public async Task<List<Notification>> GetAllAsync()
         {
             return await _context.Notifications.ToListAsync();
         }
 
-        public async Task<Notification?> Get(int id)
+        public async Task<Notification?> GetByIdAsync(int id)
         {
             return await _context.Notifications.FindAsync(id);
         }
 
-        public async Task<Notification> Create(CreateNotificationDTO dto)
+        public async Task<List<Notification>> GetByReceiverAsync(string receiver)
+        {
+            return await _context.Notifications.Where(x => x.Receiver == receiver).ToListAsync();
+        }
+
+        public async Task<List<Notification>> GetByChannelAsync(NotificationChannel channel)
+        {
+            return await _context.Notifications.Where(x => x.Channel == channel).ToListAsync();
+        }
+
+        public async Task<List<Notification>> GetByDateAsync(DateTime date)
+        {
+            return await _context.Notifications.Where(x => x.CreatedAt.Date == date).ToListAsync();
+        }
+
+        public async Task<Notification> CreateAsync(CreateNotificationDTO dto)
         {
             Notification notification = new Notification
             {

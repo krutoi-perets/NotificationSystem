@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationworker\\rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|solutionrelative:rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationworker\\services\\pushsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|solutionrelative:services\\pushsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationworker\\services\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|solutionrelative:services\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|c:\\\u0432\u043B\u0430\u0434\\\u0434\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\notificationworker\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24318E17-BB28-FB0B-72F1-0593A8726A8C}|NotificationWorker.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T09:32:51.222Z",
+              "WhenOpened": "2026-06-30T20:28:47.115Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T20:28:47.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqConsumer.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\RabbitMQ\\RabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "RabbitMQ\\RabbitMqConsumer.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\RabbitMQ\\RabbitMqConsumer.cs",
+              "RelativeToolTip": "RabbitMQ\\RabbitMqConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T13:13:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T13:12:55.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmsSender.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Services\\SmsSender.cs",
+              "RelativeDocumentMoniker": "Services\\SmsSender.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Services\\SmsSender.cs",
+              "RelativeToolTip": "Services\\SmsSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T13:13:10.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PushSender.cs",
+              "DocumentMoniker": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Services\\PushSender.cs",
+              "RelativeDocumentMoniker": "Services\\PushSender.cs",
+              "ToolTip": "C:\\\u0412\u043B\u0430\u0434\\\u0414\u043B\u044F \u0443\u0447\u0435\u0431\u044B\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\NotificationWorker\\Services\\PushSender.cs",
+              "RelativeToolTip": "Services\\PushSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T13:13:22.145Z",
               "EditorCaption": ""
             }
           ]

@@ -18,18 +18,11 @@ namespace NotificationSystem
             await using var connection = await factory.CreateConnectionAsync();
             await using var channel = await connection.CreateChannelAsync();
 
-            await channel.QueueDeclareAsync(
-                queue: "notifications",
-                durable: false,
-                exclusive: false,
-                autoDelete: false);
+            await channel.QueueDeclareAsync("notifications", false, false, false);
 
             var body = Encoding.UTF8.GetBytes(id.ToString());
 
-            await channel.BasicPublishAsync(
-                exchange: "",
-                routingKey: "notifications",
-                body: body);
+            await channel.BasicPublishAsync("", "notifications", body);
         }
     }
 }

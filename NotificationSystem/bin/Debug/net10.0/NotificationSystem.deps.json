@@ -547,6 +547,10 @@
         }
       },
       "Shared/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "10.0.9",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "10.0.2"
+        },
         "runtime": {
           "Shared.dll": {
             "assemblyVersion": "1.0.0.0",
